@@ -1,0 +1,26 @@
+{
+  "cliente_id": 10254,
+  "nome_completo": "Ana Beatriz Silva",
+  "documento_cpf": "123.456.789-00",
+  "cliente_ativo": true,
+  "data_nascimento": "1992-05-15",
+  "contato": {
+    "email": "ana.beatriz@email.com",
+    "telefone_celular": "(11) 98888-7777"
+  },
+  "endereco_entrega": {
+    "rua": "Avenida Paulista",
+    "numero": 1500,
+    "complemento": "Apto 42",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01310-200"
+  },
+  "preferencias_entrega": [
+    "horario_comercial",
+    "deixar_na_portaria"
+  ],
+  "historico_fidelidade_pontos": 450,
+  "tags_logistica": "cliente_premium"
+}

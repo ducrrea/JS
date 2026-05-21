@@ -1,0 +1,30 @@
+{
+  "pedido_numero": "1111",
+  "data_pedido": "23-04-2026",
+  "status_pagamento": "aprovado",
+  "valor_total": 1000.00,
+  "moeda": "BRL",
+  "logistica_detalhes": {
+    "peso_kg": 4.250,
+    "valor_declarado": 1200.00,
+    "status_fragil": true,
+    "transportadora_id": "LOG-EXPRESS-01"
+  },
+  "itens_pedido": [
+    {
+      "sku": "ELET-99-X",
+      "produto": "Monitor Gamer 24 Pol",
+      "quantidade": 1,
+      "preco_unitario": 1100.00
+    },
+    {
+      "sku": "CAB-HD-02",
+      "produto": "Cabo HDMI 2.0",
+      "quantidade": 2,
+      "preco_unitario": 75.40
+    }
+  ],
+  "frete_valor": 0.00,
+  "entrega_agendada": false,
+  "codigo_rastreio": "AA123456789BR"
+}
